@@ -1,4 +1,4 @@
-<h1>## <Mika Pirttimäki> web-tehtävä</h1>
+<h1>## Mika Pirttimäki web-tehtävä</h1>
 
 <h2><Tehtävä 1></h2>
 <p>Writing in Markdown is _not_ that hard!</p>
